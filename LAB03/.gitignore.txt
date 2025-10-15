@@ -1,0 +1,17 @@
+#Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+#ОС
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+#Логи и временные файлы
+*.log
+*.tmp
+*.pid

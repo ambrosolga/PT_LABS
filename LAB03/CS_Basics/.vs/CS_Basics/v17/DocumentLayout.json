@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745D694D-A328-4633-9B4D-2F0FD75FEB3E}|CS_Basics\\CS_Basics.csproj|d:\\repos\\pt_labs\\lab03\\cs_basics\\cs_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745D694D-A328-4633-9B4D-2F0FD75FEB3E}|CS_Basics\\CS_Basics.csproj|solutionrelative:cs_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745D694D-A328-4633-9B4D-2F0FD75FEB3E}|CS_Basics\\CS_Basics.csproj|d:\\repos\\pt_labs\\lab03\\cs_basics\\cs_basics\\cs_basics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{745D694D-A328-4633-9B4D-2F0FD75FEB3E}|CS_Basics\\CS_Basics.csproj|solutionrelative:cs_basics\\cs_basics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Basics\\CS_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Basics\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Basics\\CS_Basics\\Program.cs",
+              "RelativeToolTip": "CS_Basics\\Program.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAAAPMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:48:22.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS_Basics.csproj",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Basics\\CS_Basics\\CS_Basics.csproj",
+              "RelativeDocumentMoniker": "CS_Basics\\CS_Basics.csproj",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Basics\\CS_Basics\\CS_Basics.csproj",
+              "RelativeToolTip": "CS_Basics\\CS_Basics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T13:40:57.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
