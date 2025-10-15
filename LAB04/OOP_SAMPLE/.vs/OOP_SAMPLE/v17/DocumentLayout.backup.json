@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_SAMPLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94162EE8-85DF-4A1B-A137-47571CFD821F}|OOP_SAMPLE\\OOP_SAMPLE.csproj|d:\\repos\\pt_labs\\lab04\\oop_sample\\oop_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94162EE8-85DF-4A1B-A137-47571CFD821F}|OOP_SAMPLE\\OOP_SAMPLE.csproj|solutionrelative:oop_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94162EE8-85DF-4A1B-A137-47571CFD821F}|OOP_SAMPLE\\OOP_SAMPLE.csproj|d:\\repos\\pt_labs\\lab04\\oop_sample\\oop_sample\\quadraticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94162EE8-85DF-4A1B-A137-47571CFD821F}|OOP_SAMPLE\\OOP_SAMPLE.csproj|solutionrelative:oop_sample\\quadraticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_SAMPLE\\OOP_SAMPLE\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_SAMPLE\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_SAMPLE\\OOP_SAMPLE\\Program.cs*",
+              "RelativeToolTip": "OOP_SAMPLE\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:15:30.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuadraticEquation.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_SAMPLE\\OOP_SAMPLE\\QuadraticEquation.cs",
+              "RelativeDocumentMoniker": "OOP_SAMPLE\\QuadraticEquation.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_SAMPLE\\OOP_SAMPLE\\QuadraticEquation.cs",
+              "RelativeToolTip": "OOP_SAMPLE\\QuadraticEquation.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:20:23.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
