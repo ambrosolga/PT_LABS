@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BCE2C-FBE6-4173-9C3C-ECE6A138C269}|CS_Static\\CS_Static.csproj|d:\\repos\\pt_labs\\lab05\\cs_static\\cs_static\\cs_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BCE2C-FBE6-4173-9C3C-ECE6A138C269}|CS_Static\\CS_Static.csproj|solutionrelative:cs_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BCE2C-FBE6-4173-9C3C-ECE6A138C269}|CS_Static\\CS_Static.csproj|d:\\repos\\pt_labs\\lab05\\cs_static\\cs_static\\cs_static\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BCE2C-FBE6-4173-9C3C-ECE6A138C269}|CS_Static\\CS_Static.csproj|solutionrelative:cs_static\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\CS_Static\\Date.cs",
+              "RelativeDocumentMoniker": "CS_Static\\Date.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\CS_Static\\Date.cs",
+              "RelativeToolTip": "CS_Static\\Date.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:39:46.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\CS_Static\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Static\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\CS_Static\\Program.cs",
+              "RelativeToolTip": "CS_Static\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:38:59.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
